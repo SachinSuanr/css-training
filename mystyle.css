@@ -1,0 +1,54 @@
+/* h1{
+    color: blueviolet;
+}
+p{
+    color: aqua;
+} */
+
+/* * is called universal selector */
+/* * {
+    color: aqua;
+    
+} */
+/* id and class */
+/* # is for id  */
+/* #heading2{  
+    color: rgb(31, 2, 58);
+}
+#heading{
+    color: aqua;
+} */
+
+/* . for class */
+/* .code{
+    color: rgb(224, 100, 100);
+} */
+
+/* h1{
+    color: blue;
+}
+#intro{
+    color: brown;
+}
+#random{
+    color: rgb(50, 69, 69);
+}
+.random{
+    color: chartreuse;
+}
+.zero{
+    color: aquamarine;
+} */
+
+h1{
+    color: rgb(54, 38, 69);
+    background-color: brown;
+}
+.first{
+    color: rgb(11, 24, 20);
+    background-color: bisque;
+}
+.second{
+    color: black;
+    background-color: rgba(203, 203, 75, 0.4);
+}
